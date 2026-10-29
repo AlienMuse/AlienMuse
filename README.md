@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://alienmuse.github.io/"><img src="assets/banner.png" alt="Vincent Liu — The Grothendieckian Programme, Series 00–07: the seven works as a seven-cell honeycomb, GAI-MUA at the centre" width="100%"></a>
+  <a href="https://grothendiecklab.com/"><img src="assets/banner.png" alt="Vincent Liu — The Grothendieckian Programme, Series 00–07: the seven works as a seven-cell honeycomb, GAI-MUA at the centre" width="100%"></a>
 </p>
 
-**Mathematics and machine reasoning.** I am the author of [*The Grothendieckian Programme*](https://github.com/AlienMuse/grothendieckian-programme), a programme for machine reasoning about mathematics, set out in seven works of the WiseMotif Monograph of Mathematical Intelligence (Series 01–07), with their overview (Series 00). [WiseMotif.ai](https://wisemotif.ai).
+**Mathematics and machine reasoning.** I am the author of [*The Grothendieckian Programme*](https://github.com/AlienMuse/grothendieckian-programme), a programme for machine reasoning about mathematics, set out in seven works of the WiseMotif Monograph of Mathematical Intelligence (Series 01–07), with their overview (Series 00). [Grothendieck Lab](https://grothendiecklab.com/) · [WiseMotif.ai](https://wisemotif.ai).
 
-<p><a href="https://orcid.org/0009-0000-8718-222X"><img src="https://img.shields.io/badge/ORCID-0009--0000--8718--222X-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID 0009-0000-8718-222X"></a> <a href="https://alienmuse.github.io/"><img src="https://img.shields.io/badge/website-alienmuse.github.io-0A131E?style=flat" alt="Website alienmuse.github.io"></a> <a href="https://scholar.google.com/citations?user=t0sMkU0AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Vincent%20Liu-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar Vincent Liu"></a> <a href="https://zenodo.org/communities/grothendieckian-programme"><img src="https://img.shields.io/badge/Zenodo-The%20Grothendieckian%20Programme-1E5A88?style=flat" alt="Zenodo community The Grothendieckian Programme"></a></p>
+<p><a href="https://orcid.org/0009-0000-8718-222X"><img src="https://img.shields.io/badge/ORCID-0009--0000--8718--222X-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID 0009-0000-8718-222X"></a> <a href="https://grothendiecklab.com/"><img src="https://img.shields.io/badge/Grothendieck%20Lab-grothendiecklab.com-0A131E?style=flat" alt="Grothendieck Lab grothendiecklab.com"></a> <a href="https://scholar.google.com/citations?user=t0sMkU0AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Vincent%20Liu-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar Vincent Liu"></a> <a href="https://zenodo.org/communities/grothendieckian-programme"><img src="https://img.shields.io/badge/Zenodo-The%20Grothendieckian%20Programme-1E5A88?style=flat" alt="Zenodo community The Grothendieckian Programme"></a></p>
 
 ### The Grothendieckian Programme · Series 00–07
 
@@ -91,4 +91,4 @@
 
 ### Contact
 
-[ORCID 0009-0000-8718-222X](https://orcid.org/0009-0000-8718-222X) · [Google Scholar](https://scholar.google.com/citations?user=t0sMkU0AAAAJ) · [alienmuse.github.io](https://alienmuse.github.io/) ([中文](https://alienmuse.github.io/zh/)) · [Zenodo community](https://zenodo.org/communities/grothendieckian-programme) · [vincent.liu@wisemotif.ai](mailto:vincent.liu@wisemotif.ai)
+[ORCID 0009-0000-8718-222X](https://orcid.org/0009-0000-8718-222X) · [Google Scholar](https://scholar.google.com/citations?user=t0sMkU0AAAAJ) · [grothendiecklab.com](https://grothendiecklab.com/) ([中文](https://grothendiecklab.com/zh/)) · [alienmuse.github.io](https://alienmuse.github.io/) · [Zenodo community](https://zenodo.org/communities/grothendieckian-programme) · [vincent.liu@wisemotif.ai](mailto:vincent.liu@wisemotif.ai)
